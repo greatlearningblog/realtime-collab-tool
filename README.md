@@ -40,5 +40,5 @@ In today's digital workspace, real-time collaboration is crucial for enhancing p
    git clone https://github.com/yourusername/realtime-collab-tool.git
    cd realtime-collab-tool
 
-**View Other such Node.js Projects:** https://www.mygreatlearning.com/blog/top-node-js-projects/
+View other such [Node.js Projects](https://www.mygreatlearning.com/blog/top-node-js-projects/)
 
